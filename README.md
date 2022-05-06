@@ -13,6 +13,7 @@ Atualmente tenho experiência nas seguintes tecnologias:
 <div style="display: inline-block">
 <img align="center" height="30 width="30" src="https://cdn.worldvectorlogo.com/logos/typescript.svg">
 <img align="center" height="30 width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img align="center" height="30 width="30" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
 <img align="center" height="30 width="30" src="https://javascriptforwp.com/wp-content/uploads/2019/03/badge-gatsby.png">
 <img align="center" height="30 width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
   <img align="center" height="30 width="30" src="https://symbols.getvecta.com/stencil_25/75_sass.57898c574e.svg">
