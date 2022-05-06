@@ -30,7 +30,7 @@ Busco colaborar com projetos em React/Next :purple_heart:
 <pre>
 Linguagens:            🚀 JS/TypeScript
 
-Tecnologias Front-end: 🚀 React, GatsbyJS, Wordpress
+Tecnologias Front-end: 🚀 React, NextJS, GatsbyJS, Wordpress
 
 Tecnologias CSS:       🚀 Chackra UI, Tailwind, Styled-Components, SASS
 
