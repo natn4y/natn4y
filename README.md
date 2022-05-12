@@ -4,7 +4,7 @@
                                                                                                                                      
 # Natanael Araújo
 
-## Oi, pessoal :wave:	
+## Hey :wave: tudo bem?
 Sou desenvolvedor front-end, fascinado pela programação, estou sempre estudando para me manter atualizado e evoluir cada vez mais :rocket:
 
 Atualmente tenho experiência nas seguintes tecnologias:
