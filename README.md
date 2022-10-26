@@ -19,12 +19,23 @@
                                                                                                                          
 Busco colaborar com projetos desenvolvidos com React/NextJS :purple_heart:
 <pre>
+
+Minhas habilidades:
+
 Linguagens:            🚀 Javascript/TypeScript
 
-Tecnologias Front-end: 🚀 React, NextJS, Wordpress
+Lib's/framework's:     🚀 React, NextJS
 
 Tecnologias CSS:       🚀 Tailwind, Styled-Components, Chakra UI, SASS
 
-API:                   🚀 REST
+API:                   🚀 RESTful
+
+CMS:                   🚀 Wordpress
+
+<b>Tecnologias que estou estudando:</b>
+React Native, GatsbyJs, GraphQL
+
+<b>Tecnologias que pretendo estudar:</b>
+NodeJS, Docker, Socket.io, MongoDB, Sequelize, Electron
 
 </pre>
