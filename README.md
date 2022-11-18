@@ -28,7 +28,7 @@ Lib's/framework's:     🚀 React, NextJS, GatsbyJs
 
 Tecnologias CSS:       🚀 Tailwind, Styled-Components, Chakra UI, SASS
 
-Consumo de API:        🚀 RESTful, GraphQL
+Consumo de API:        🚀 REST, GraphQL
 
 CMS:                   🚀 Wordpress
 
