@@ -24,7 +24,7 @@ Minhas habilidades:
 
 Linguagens:            🚀 Javascript/TypeScript
 
-Lib's/framework's:     🚀 React, NextJS, GatsbyJs
+Lib's/framework's:     🚀 React, React Native, NextJS, GatsbyJs
 
 Tecnologias CSS:       🚀 Tailwind, Styled-Components, Chakra UI, SASS
 
@@ -33,7 +33,7 @@ Consumo de API:        🚀 REST, GraphQL
 CMS:                   🚀 Wordpress
 
 <b>Tecnologias que estou estudando:</b>
-React Native, NodeJS
+NodeJS
 
 <b>Tecnologias que pretendo estudar:</b>
 Docker, Prisma, Socket.io, MongoDB, Electron
