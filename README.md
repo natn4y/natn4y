@@ -31,11 +31,4 @@ Tecnologias CSS:       🚀 Tailwind, Styled-Components, Chakra UI, SASS
 Consumo de API:        🚀 REST, GraphQL
 
 CMS:                   🚀 Wordpress
-
-<b>Tecnologias que estou estudando:</b>
-NodeJS
-
-<b>Tecnologias que pretendo estudar:</b>
-Docker, Prisma, Socket.io, MongoDB, Electron
-
 </pre>
