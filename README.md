@@ -17,7 +17,7 @@
 </div>
 <br>                                                                                                                         
                                                                                                                          
-Busco colaborar com projetos desenvolvidos em React/NextJS :purple_heart:
+Busco colaborar em projetos desenvolvidos com React/NextJS :purple_heart:
 <pre>
 
 Minhas habilidades:
