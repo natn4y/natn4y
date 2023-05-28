@@ -14,8 +14,28 @@
 <img align="center" height="30 width="30" src="https://raw.githubusercontent.com/feguedi/cra-template-chakra-ui-base/HEAD/assets/logo-colored@2x.png">
 <img align="center" height="30 width="30" src="https://cdn-icons-png.flaticon.com/512/174/174881.png">
 </div>
-<br>                                                                                                                         
-                                                                                                                         
+<br>    
+
+<pre>
+Linux
+JavaScript / TypeScript
+HTML5 / CSS3 / SASS
+React.js / Next.js / Axios
+React Native
+GatsbyJs
+Tailwind
+Styled-Components
+Chakra UI
+Bundlers (Webpack, Vite)
+Git / GitHub
+Global State Management With Context
+Consumo de API REST
+Conhecimento em NodeJS (Express)
+Conhecimento em sistemas em nuvem (AWS);
+Conhecimento em metodologias ágeis (SCRUM / Kanban)
+Boas noções de UX / UI
+</pre>  
+
 <pre>
 
 Minhas habilidades:
