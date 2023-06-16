@@ -27,29 +27,17 @@ GatsbyJs
 Tailwind
 Styled-Components
 Chakra UI
+SASS
+Wordpress
 Bundlers (Webpack, Vite)
 Git / GitHub
 Global State Management With Context
 Consumo de API REST
 Consumo de API GRAPHQL
 Conhecimento em NodeJS (Express)
-MongoDB
+MongoDB / Prisma
 Conhecimento em sistemas em nuvem (AWS);
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
 Boas noções de UX / UI
+🚀
 </pre>  
-
-<pre>
-
-Minhas habilidades:
-
-Linguagens:            🚀 Javascript/TypeScript
-
-Lib's/framework's:     🚀 React, React Native, NextJS, GatsbyJs
-
-Tecnologias CSS:       🚀 Tailwind, Styled-Components, Chakra UI, SASS
-
-Consumo de API:        🚀 REST, GraphQL
-
-CMS:                   🚀 Wordpress
-</pre>
