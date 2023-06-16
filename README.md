@@ -17,6 +17,7 @@
 <br>    
 
 <pre>
+Docker
 Linux
 JavaScript / TypeScript
 HTML5 / CSS3 / SASS
@@ -30,7 +31,9 @@ Bundlers (Webpack, Vite)
 Git / GitHub
 Global State Management With Context
 Consumo de API REST
+Consumo de API GRAPHQL
 Conhecimento em NodeJS (Express)
+MongoDB
 Conhecimento em sistemas em nuvem (AWS);
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
 Boas noções de UX / UI
