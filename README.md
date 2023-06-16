@@ -38,6 +38,5 @@ Conhecimento em NodeJS (Express)
 MongoDB / Prisma
 Conhecimento em sistemas em nuvem (AWS);
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
-Boas noções de UX / UI
-🚀
+Boas noções de UX / UI 🚀
 </pre>  
