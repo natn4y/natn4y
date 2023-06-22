@@ -27,7 +27,6 @@ GatsbyJs
 Tailwind
 Styled-Components
 Chakra UI
-SASS
 Wordpress
 Bundlers (Webpack, Vite)
 Git / GitHub
