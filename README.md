@@ -17,25 +17,28 @@
 <br>    
 
 <pre>
-Docker
 Linux
+Docker
+Git / GitHub
 JavaScript / TypeScript
 HTML5 / CSS3 / SASS
-React.js / Next.js / Axios
+React Hooks e todo o seu ecossistema
+Next.js
+GatsbyJs / Wordpress
 React Native
-GatsbyJs
+Axios
 Tailwind
 Styled-Components
 Chakra UI
-Wordpress
 Bundlers (Webpack, Vite)
-Git / GitHub
-Global State Management With Context
-Consumo de API REST
-Consumo de API GRAPHQL
-Conhecimento em NodeJS (Express)
-MongoDB / Prisma
-Conhecimento em sistemas em nuvem (AWS);
+Gerenciamento de Estado Global com Context API
+API REST
+Princípios S.O.L.I.D
+NodeJS (Express) + Testes com JEST
+Prisma ORM
+Banco de dados MongoDB
+Conhecimento em Cloud computing (AWS) / SSH
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
+Colaboração em equipe
 Boas noções de UX / UI 🚀
 </pre>  
