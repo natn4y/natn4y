@@ -25,11 +25,8 @@ HTML5 / CSS3 / SASS
 React Hooks e todo o seu ecossistema
 Next.js
 GatsbyJs / Wordpress
-React Native
-Axios
 Tailwind
 Styled-Components
-Chakra UI
 Bundlers (Webpack, Vite)
 Gerenciamento de Estado Global com Context API
 API REST
