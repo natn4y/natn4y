@@ -22,18 +22,18 @@ Docker
 Git / GitHub
 JavaScript / TypeScript
 HTML5 / CSS3 / SASS
-React Hooks e todo o seu ecossistema
+React Hooks e seu ecossistema
 Next.js
 GatsbyJs / Wordpress
 Tailwind
 Styled-Components
-Bundlers (Webpack, Vite)
+Material UI
 Gerenciamento de Estado Global com Context API
 API REST
 Princípios S.O.L.I.D
 NodeJS (Express) + Testes com JEST
 Prisma ORM
-Banco de dados MongoDB
+Experiência com bancos de dados SQL e NoSQL.
 Conhecimento em Cloud computing (AWS) / SSH
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
 Colaboração em equipe
