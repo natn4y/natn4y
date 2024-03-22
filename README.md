@@ -28,12 +28,15 @@ GatsbyJs / Wordpress
 Tailwind
 Styled-Components
 Material UI
+Shadcn/ui
 Gerenciamento de Estado Global com Context API
 API REST
 Princípios S.O.L.I.D
 NodeJS (Express) + Testes com JEST
-Prisma ORM
 Experiência com bancos de dados SQL e NoSQL.
+Prisma ORM
+MongoDB
+MySQL
 Conhecimento em Cloud computing (AWS) / SSH
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
 Colaboração em equipe
