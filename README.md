@@ -11,7 +11,6 @@
 <img align="center" height="30 width="30" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img align="center" height="30 width="30" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png">
 <img align="center" height="30 width="30" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg">
-<img align="center" height="30 width="30" src="https://raw.githubusercontent.com/feguedi/cra-template-chakra-ui-base/HEAD/assets/logo-colored@2x.png">
 <img align="center" height="30 width="30" src="https://cdn-icons-png.flaticon.com/512/174/174881.png">
 </div>
 <br>    
