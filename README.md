@@ -26,8 +26,6 @@ Next.js
 GatsbyJs / Wordpress
 Tailwind
 Styled-Components
-Material UI
-Shadcn/ui
 Gerenciamento de Estado Global com Context API
 API REST
 Princípios S.O.L.I.D
