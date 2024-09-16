@@ -5,7 +5,7 @@
 # Natanael Araújo
 
 <h3>Oi, tudo bem? 👋</h1>
-<p>👩‍💻 Desenvolvedor Fullstack</p>
+<p>👩‍💻 Desenvolvedor Full Stack</p>
 <p>⚙️ Uso diariamente: .js, .tsx, .ts</p>
 <p>🤓 Sempre aprendendo algo novo</p>
 
