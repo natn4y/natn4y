@@ -5,7 +5,7 @@
 # Natanael Araújo
 
 <h3>Oi, tudo bem? 👋</h1>
-<p>👩‍💻 Desenvolvedor Front-end</p>
+<p>👩‍💻 Desenvolvedor Fullstack</p>
 <p>⚙️ Uso diariamente: .js, .tsx, .ts</p>
 <p>🤓 Sempre aprendendo algo novo</p>
 
@@ -31,6 +31,7 @@ Tailwind
 Shadcn/ui
 Styled-Components
 Gerenciamento de Estado Global com Context API
+React Query
 API REST
 Princípios S.O.L.I.D
 NodeJS (Express) + Testes com JEST
@@ -38,6 +39,5 @@ Experiência com bancos de dados SQL e NoSQL (MongoDB, MySQL).
 Prisma ORM
 Conhecimento em Cloud computing (AWS) / SSH
 Conhecimento em metodologias ágeis (SCRUM / Kanban)
-Colaboração em equipe
 Boas noções de UX / UI 🚀
 </pre>  
