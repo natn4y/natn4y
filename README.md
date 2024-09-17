@@ -23,7 +23,6 @@ Linux
 Docker
 Git / GitHub
 JavaScript / TypeScript
-HTML5 / CSS3 / SASS
 React Hooks e seu ecossistema
 Next.js
 GatsbyJs / Wordpress
