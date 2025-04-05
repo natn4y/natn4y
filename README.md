@@ -25,13 +25,10 @@ Git / GitHub
 JavaScript / TypeScript
 React Hooks e seu ecossistema
 Next.js
-GatsbyJs / Wordpress
 Tailwind
-Shadcn/ui
-Styled-Components
 Gerenciamento de Estado Global com Context API
-React Query
 API REST
+Wordpress
 Princípios S.O.L.I.D
 NodeJS (Express) + Testes com JEST
 Experiência com bancos de dados SQL e NoSQL (MongoDB, MySQL).
